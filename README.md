@@ -12,31 +12,31 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a fourth-year **BS Information Technology** student majoring in **System Development** at **PHINMA Araullo University**.
 
 I build responsive and user-friendly web applications for academic, business, and real-world systems.
 
-- 🎓 BSIT – System Development
-- 🏫 PHINMA Araullo University
-- 💻 Interested in Frontend, Backend, and Full-Stack Development
-- 🌱 Continuously improving my skills in web development
-- 📍 Bongabon, Nueva Ecija
+- BSIT – System Development
+- PHINMA Araullo University
+- Interested in Frontend, Backend, and Full-Stack Development
+- Continuously improving my skills in web development
+- Bongabon, Nueva Ecija
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,laravel,bootstrap,tailwind,firebase,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,laravel,bootstrap,tailwind,git,github,vscode" />
 
 </div>
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 - Build responsive web applications
 - Create frontend and backend systems
@@ -49,7 +49,7 @@ I build responsive and user-friendly web applications for academic, business, an
 
 ## 🚀 Featured Projects
 
-### 💼 AGAPAY Job Portal
+### AGAPAY Job Portal
 A web-based job portal that connects jobseekers with employers, allowing users to search for jobs, submit applications, manage job postings, and track application status.
 
 **Tech Stack:** React, React Native, Node.js, Express.js, MongoDB Atlas, Tailwind CSS
@@ -58,7 +58,7 @@ A web-based job portal that connects jobseekers with employers, allowing users t
 
 ---
 
-### 💈 Renz Barbershop Management System
+### Renz Barbershop Management System
 A barbershop management system for customer bookings, walk-in queues, cashier operations, payments, and administrative records.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB Atlas, RESTful APIs
@@ -67,7 +67,7 @@ A barbershop management system for customer bookings, walk-in queues, cashier op
 
 ---
 
-### 🔎 SLOFT Lost and Found System
+### SLOFT Lost and Found System
 A lost-and-found management system designed to help users report, find, and manage lost or recovered items.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB Atlas, Tailwind CSS
@@ -76,7 +76,7 @@ A lost-and-found management system designed to help users report, find, and mana
 
 ---
 
-### 👕 PHINMA AU Uniform Request
+### PHINMA AU Uniform Request
 A web-based system for PHINMA AU South Campus students to request uniforms, track their request status, and receive notifications when uniforms are ready for pickup.
 
 **Tech Stack:** React, JavaScript, Node.js, Express.js, MongoDB
@@ -85,7 +85,7 @@ A web-based system for PHINMA AU South Campus students to request uniforms, trac
 
 ---
 
-### 🎵 Banda ni Shano – Live Music Website
+### Banda ni Shano – Live Music Website
 A web-based booking system that allows customers to book Banda ni Shano for birthdays, weddings, and other special events.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, Vue.js, EJS, Node.js, Express.js, MongoDB
@@ -94,7 +94,7 @@ A web-based booking system that allows customers to book Banda ni Shano for birt
 
 ---
 
-### 📚 E-Library Management System
+### E-Library Management System
 A digital library management system that allows users to browse library resources and manage their accounts through a web-based platform.
 
 **Tech Stack:** React, JavaScript, Node.js, Express.js, MongoDB
@@ -103,34 +103,34 @@ A digital library management system that allows users to browse library resource
 
 ---
 
-### 🦷 Fernandez Dental Clinic Appointment System
+### Fernandez Dental Clinic Appointment System
 A web-based dental clinic appointment management system designed to simplify patient bookings, manage dental services, and help clinic staff organize appointments and patient records efficiently.
 
 **Tech Stack:** PHP, HTML5, CSS3, JavaScript, MySQL
 
 ---
 
-### 🎮 2D Adventure Platformer Game
+### 2D Adventure Platformer Game
 A 2D adventure game developed using Unity where players control a character, avoid obstacles, and overcome challenges to complete each level.
 
 **Tech Stack:** Unity, C#, Unity 2D
 
 ---
 
-### 🎓 Student Record Management System (SRMS)
+### Student Record Management System (SRMS)
 A desktop application developed using VB.NET that helps manage student records, enrollment, attendance, and grades.
 
 **Tech Stack:** VB.NET, Windows Forms, Visual Studio
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 I'm looking for opportunities as a **Frontend Developer**, **Backend Developer**, or **Full-Stack Developer** where I can apply my technical skills, contribute to real-world projects, and continue growing professionally.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
