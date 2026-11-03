@@ -47,7 +47,7 @@ I build responsive and user-friendly web applications for academic, business, an
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### AGAPAY Job Portal
 A web-based job portal that connects jobseekers with employers, allowing users to search for jobs, submit applications, manage job postings, and track application status.
