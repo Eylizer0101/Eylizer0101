@@ -1,11 +1,12 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,50:3CB371,100:66CDAA&height=220&section=header&text=Eylizer%20Marcos%20De%20Afria&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descAlign=50" />
+
+</div>
 
 <div align="center">
 
-# Hi, I'm Eylizer Marcos De Afria! 👋
-
-### Full-Stack Web Developer
-
-I develop responsive and user-friendly web applications that help people and businesses manage their daily tasks.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eylizer!;I+build+responsive+web+applications.;Frontend+%7C+Backend+%7C+Full-Stack+Development)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,121 +14,135 @@ I develop responsive and user-friendly web applications that help people and bus
 
 ## 👨‍💻 About Me
 
-I'm a fourth-year BS Information Technology student majoring in System Development at PHINMA Araullo University.
+I'm a fourth-year **BS Information Technology** student majoring in **System Development** at **PHINMA Araullo University**.
 
-I have experience developing full-stack web applications, managing databases, and building systems that are simple and easy to use.
+I build responsive and user-friendly web applications for academic, business, and real-world systems.
 
-- 🎓 BS Information Technology — System Development
+- 🎓 BSIT – System Development
 - 🏫 PHINMA Araullo University
 - 💻 Interested in Frontend, Backend, and Full-Stack Development
-- 🌱 Continuously learning and improving my development skills
-
-## 🛠️ Technical Skills
-
-**Frontend Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- 🌱 Continuously improving my skills in web development
+- 📍 Bongabon, Nueva Ecija
 
 ---
 
-## 💻 What I Do
+## 🛠️ Tech Stack
 
-- Develop responsive and user-friendly web applications
-- Build frontend and backend functionalities
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,laravel,bootstrap,tailwind,firebase,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 💼 What I Do
+
+- Build responsive web applications
+- Create frontend and backend systems
 - Design and manage databases
-- Implement authentication and user roles
-- Perform system testing and debugging
-- Deploy and maintain web applications
+- Develop academic and business systems
+- Test, debug, and improve system usability
+- Deploy web applications online
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💼 AGAPAY Job Portal
+A web-based job portal that connects jobseekers with employers, allowing users to search for jobs, submit applications, manage job postings, and track application status.
 
-A job portal that helps jobseekers find job opportunities and allows employers to manage job postings and applications.
+**Tech Stack:** React, React Native, Node.js, Express.js, MongoDB Atlas, Tailwind CSS
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E8B57?style=for-the-badge&logo=render&logoColor=white)](https://agapayy.onrender.com)
+
+---
 
 ### 💈 Renz Barbershop Management System
+A barbershop management system for customer bookings, walk-in queues, cashier operations, payments, and administrative records.
 
-A management system for handling customer appointments, queues, payments, inventory, and barbershop operations.
+**Tech Stack:** HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB Atlas, RESTful APIs
 
-**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E8B57?style=for-the-badge&logo=render&logoColor=white)](https://renz-barbershop.onrender.com)
+
+---
+
+### 🔎 SLOFT Lost and Found System
+A lost-and-found management system designed to help users report, find, and manage lost or recovered items.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB Atlas, Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E8B57?style=for-the-badge&logo=render&logoColor=white)](https://sloft-frontend.onrender.com)
+
+---
+
+### 👕 PHINMA AU Uniform Request
+A web-based system for PHINMA AU South Campus students to request uniforms, track their request status, and receive notifications when uniforms are ready for pickup.
+
+**Tech Stack:** React, JavaScript, Node.js, Express.js, MongoDB
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E8B57?style=for-the-badge&logo=render&logoColor=white)](https://phinma-uniform-frontend.onrender.com)
+
+---
+
+### 🎵 Banda ni Shano – Live Music Website
+A web-based booking system that allows customers to book Banda ni Shano for birthdays, weddings, and other special events.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Vue.js, EJS, Node.js, Express.js, MongoDB
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E8B57?style=for-the-badge&logo=render&logoColor=white)](https://appointment-system-u1xr.onrender.com)
+
+---
 
 ### 📚 E-Library Management System
+A digital library management system that allows users to browse library resources and manage their accounts through a web-based platform.
 
-An online library system that allows students to browse books, submit borrowing requests, and manage borrowed books.
+**Tech Stack:** React, JavaScript, Node.js, Express.js, MongoDB
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E8B57?style=for-the-badge&logo=render&logoColor=white)](https://e-library-frontend-gewq.onrender.com)
+
+---
 
 ### 🦷 Fernandez Dental Clinic Appointment System
+A web-based dental clinic appointment management system designed to simplify patient bookings, manage dental services, and help clinic staff organize appointments and patient records efficiently.
 
-A web application that helps patients schedule dental appointments and manage their appointment information.
+**Tech Stack:** PHP, HTML5, CSS3, JavaScript, MySQL
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+---
 
-### 👕 PHINMA Uniform Request System
+### 🎮 2D Adventure Platformer Game
+A 2D adventure game developed using Unity where players control a character, avoid obstacles, and overcome challenges to complete each level.
 
-A web-based system that allows students to submit uniform requests and helps staff manage those requests.
+**Tech Stack:** Unity, C#, Unity 2D
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB
+---
 
-### 🎵 Banda ni Shano Booking Website
+### 🎓 Student Record Management System (SRMS)
+A desktop application developed using VB.NET that helps manage student records, enrollment, attendance, and grades.
 
-A website where customers can book band performances for special occasions and events.
-
-**Technologies:** HTML5, CSS3, JavaScript, Vue.js, EJS, Node.js, Express.js, MongoDB
+**Tech Stack:** VB.NET, Windows Forms, Visual Studio
 
 ---
 
 ## 🎯 Career Objective
 
-I'm looking for opportunities as a Frontend Developer, Backend Developer, or Full-Stack Developer where I can apply my technical skills, contribute to real-world projects, and continue growing professionally.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eylizer0101&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eylizer0101&layout=compact&theme=default)
-
-</div>
+I'm looking for opportunities as a **Frontend Developer**, **Backend Developer**, or **Full-Stack Developer** where I can apply my technical skills, contribute to real-world projects, and continue growing professionally.
 
 ---
 
 ## 📫 Let's Connect
 
-📧 **Email:** deafriaeylizermarcos@gmail.com
+<div align="center">
 
-🌐 **GitHub:** https://github.com/Eylizer0101
+[![Email](https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deafriaeylizermarcos@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1F3D2F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eylizer0101)
 
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:66CDAA,50:3CB371,100:2E8B57&height=140&section=footer" />
+
+</div>
