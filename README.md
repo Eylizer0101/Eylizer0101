@@ -23,7 +23,7 @@ I build responsive and user-friendly web applications for academic, business, an
 - PHINMA Araullo University
 - Interested in Frontend, Backend, and Full-Stack Development
 - Continuously improving my skills in web development
-- Bongabon, Nueva Ecija
+- Bongabon, Nueva Ecija, Philippines
 
 ---
 
